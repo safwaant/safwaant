@@ -1,7 +1,7 @@
 # Hi, I'm Safwaan! 👋
 
 ## 🚀 About Me
-I'm a computer science student at the University of Washington! I'm passionate about all things computer science, with a focus on full stack development. 
+I'm a computer science student at the University of Washington! I'm passionate about all things software, from web development to IoT, with a focus on full stack development. 
 Currently looking for SWE / SDE Internships or entry level developer roles!
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safwaan-taher/)
