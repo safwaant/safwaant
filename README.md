@@ -1,5 +1,7 @@
 # Hi, I'm Safwaan! 👋
 
+<img src="https://komarev.com/ghpvc/?username=safwaant&&style=flat-square" align="center" />
+
 ## 🚀 About Me
 I'm a computer science student at the University of Washington! I'm passionate about all things software, from web development to IoT, with a focus on full stack development. 
 Currently looking for SWE / SDE Internships or entry level developer roles!
